@@ -1,0 +1,2 @@
+client/**/*.js linguist-vendored
+server/public/** linguist-vendored
